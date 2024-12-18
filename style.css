@@ -1,0 +1,59 @@
+
+* {
+		font-family: Arial;
+	}
+
+a {
+	text-decoration: none;
+}
+
+#banner {
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+
+nav{
+
+  padding:5px
+}
+
+nav a{
+  flex:1;
+  color:black;
+  margin:0 10px 0 10px;
+  display:inline-block;
+  width:20%;
+  text-align:center;
+}
+
+#banner {
+	text-align: center;
+}
+
+a:hover {
+  color: red;
+}
+
+.container {
+	display:flex;
+	background-color: darkred;
+}
+
+p {
+	text-align: left;
+}
+
+img {
+	padding: 50px;
+	
+}
+
+#viet  {
+	font-family: Arial;
+	color: red;
+	font-size: 35px;
+	text-align: center;
+	font-size: 40px;
+}
+	
